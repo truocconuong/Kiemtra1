@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\KiemTra\KiemTra\bin\Debug\KiemTra.exe.config
+C:\Users\ASUS\source\repos\KiemTra\KiemTra\bin\Debug\KiemTra.exe
+C:\Users\ASUS\source\repos\KiemTra\KiemTra\bin\Debug\KiemTra.pdb
+C:\Users\ASUS\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.exe
+C:\Users\ASUS\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.pdb
